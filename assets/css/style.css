@@ -6,11 +6,11 @@ body {
 
 textarea{
   background: transparent;
-  border: none;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
+  border: 1px solid black;
   padding: 10px;
+  border-bottom: none;
 }
 
 .jumbotron {
@@ -63,6 +63,10 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+}
+
+.saveBtn i{
+  cursor: pointer;
 }
 
 .saveBtn i:hover {
