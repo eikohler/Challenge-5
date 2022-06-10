@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 Created a work day schedule web app that uses jQuery, Bootstrap, jQuery UI and font awesome
 icons third party API.
 Displays 9-5 working hours in the day and color codes based on time of the day, i.e, past,
