@@ -8,4 +8,4 @@ the note is saved for that timeblock and remains in local storage to be pulled f
 filled back in if the page is refreshed.
 
 ![Screen Shot](screenshot.JPG?raw=true "Screen Shot")
-URL: https://eikohler.github.io/Challenge-5/
+URL: https://eikohler.github.io/Work-Day-Scheduler/
